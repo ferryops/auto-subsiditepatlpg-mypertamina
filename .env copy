@@ -1,2 +1,2 @@
 TOKEN=
-API="https://api"
+API="https://api-map.my-pertamina.id/general/v1/transactions"
